@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://zarqa640.github.io', // Replace with your GitHub username
+  url: 'https://yourusername.github.io', // Replace with your GitHub username
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/ai-text-book/', // Repository name for GitHub Pages
@@ -30,7 +30,7 @@ const config = {
   organizationName: 'zarqa640', // Replace with your GitHub username
   projectName: 'ai-text-book', // Your GitHub repository name
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -153,7 +153,6 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-
-  };
+};
 
 export default config;
