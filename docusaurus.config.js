@@ -81,11 +81,6 @@ const config = {
             label: 'Book',
           },
           {
-            to: '/chatbot',
-            label: 'Chatbot',
-            position: 'left',
-          },
-          {
             href: 'https://github.com/your-organization/physical-ai-humanoid-robotics',
             label: 'GitHub',
             position: 'right',
