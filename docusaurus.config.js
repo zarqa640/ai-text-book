@@ -103,7 +103,7 @@ const config = {
               },
               {
                 label: 'Module 3: The AI-Robot Brain (NVIDIA Isaac™)',
-                to: '/docs/module-3-ai-robot-brain/intro',
+                to: '/docs/module-3-ai-brain/intro',
               },
               {
                 label: 'Module 4: Vision-Language-Action (VLA)',
